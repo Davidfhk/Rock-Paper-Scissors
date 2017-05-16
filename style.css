@@ -1,0 +1,39 @@
+#rock_user{
+	position:absolute;
+    top: 80%;
+    left: 45%;
+}
+#paper_user{
+	position:absolute;
+    top: 80%;
+    left: 49%;
+}
+#scissors_user{
+	position:absolute;
+    top: 80%;
+    left: 53%;
+}
+#rock_ord{
+	position:absolute;
+    bottom: 80%;
+    left: 45%;
+}
+#paper_ord{
+	position:absolute;
+    bottom: 80%;
+    left: 49%;
+}
+#scissors_ord{
+	position:absolute;
+    bottom: 80%;
+    left: 53%;
+}
+input, img{
+	width: 50px;
+
+}
+#result{
+	position:absolute;
+    bottom: 50%;
+    left: 30%;
+}
